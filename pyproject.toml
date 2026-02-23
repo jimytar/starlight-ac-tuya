@@ -1,0 +1,11 @@
+[tool.ruff]
+line-length = 88
+exclude = ["__pycache__", ".git", ".venv", "build", "dist"]
+
+[tool.black]
+line-length = 88
+target-version = ['py311']
+
+[tool.flake8]
+max-line-length = 88
+extend-ignore = ["E203", "W503"]

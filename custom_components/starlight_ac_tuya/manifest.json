@@ -1,0 +1,12 @@
+{
+  "domain": "starlight_ac_tuya",
+  "name": "Star-Light AC Tuya",
+  "version": "1.0.0",
+  "documentation": "https://github.com/jimytar/starlight-ac-tuya",
+  "issue_tracker": "https://github.com/jimytar/starlight-ac-tuya/issues",
+  "requirements": [],
+  "dependencies": [],
+  "codeowners": ["@jimytar"],
+  "config_flow": true,
+  "iot_class": "cloud_polling"
+}
